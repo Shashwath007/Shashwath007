@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" width="100%" alt="Shashwath — AI & Data Science Engineer" />
+<img src="./header-banner.svg" width="100%" alt="Shashwath — AI & Data Science Engineer" />
 
 <br/>
 
