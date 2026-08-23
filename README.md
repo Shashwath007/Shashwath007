@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-- 🎓 AI & Data Science undergraduate at **NMAM Institute of Technology** — currently in my 6th semester
+- 🎓 AI & Data Science undergraduate at **NMAM Institute of Technology** — currently in my 7th semester
 - 💼 Completed a **Technology Consulting** internship at **Wipfli India LLP**, Bengaluru Delivery Center
 - ✍️ Lead author of a published **IEEE Access** journal paper — see below
 - 🧠 I like building the unglamorous middle layer: OCR pipelines, watermark decoders, streaming data layers — the parts that turn raw signal into something usable
